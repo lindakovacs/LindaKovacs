@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Linda Kovacs and I'm a Software Engineer @ Accenture.</h1>
-<h3 align="center">Portofolio: https://linda-kovacs.com/portfolio/</h3>
+<h3 align="center">Portofolio: <a href="https://linda-kovacs.com/portfolio/" target="_blank">https://linda-kovacs.com/portfolio/</a></h3>
 
 I am a Full Stack Developer, Women Techmakers Ambassador, Google Developer Group Lead for Capital Region, Journalist/Reporter Radio, TV, Magazine. I speak English, Italian, Romanian in daily basis.
 
