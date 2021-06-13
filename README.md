@@ -3,10 +3,10 @@
 
 I am a Full Stack MERN Developer, Women Techmakers Ambassador, Google Developers Group Lead - Capital Region, Journalist/Reporter Radio, TV, Magazine. I speak English, Italian, Romanian in daily basis.
 
-In Februay 2020 I enrolled in the Full Stack Web Development MERN online Bootcamp at Practicum by Yandex. During my leanring journey I helped other students with questions related to course/sprints assignements and projects. The curricullum provides a wide range of projects based on the following Full Stack Development technologies: HTML5, CSS3, flexbox, grid layout, BEM, Media queries, transition, JavaScript/JSX, DOM, Debugging, Git, Git/Github, Figma, Form validation, OOP, Webpack, NPM, React, React components, React Hooks, Node.js, Express.js, Database, MongoDB, Mongoose, API, Microsoft Azure Cloud.
+I Graduated from Practicum by Yandex as a Full Stack Web Development MERN online Bootcamp. During my leanring journey I helped other students with questions related to the course/sprints assignements and projects. The curricullum provides a wide range of projects based on the following Full Stack Development technologies: HTML5, CSS3, flexbox, grid layout, BEM, Media queries, transition, JavaScript/JSX, DOM, Debugging, Git, Git/Github, Figma, Form validation, OOP, Webpack, NPM, React, React components, React Hooks, Node.js, Express.js, Database, MongoDB, Mongoose, API, Microsoft Azure Cloud, AWS, Google Cloud backend deployment.
 
 - 💙  I'm a Software Engineer @ Accenture.
-- 🔭  I’m currently working on my Graduation Project - Practicum's Full Stack Web Developer bootcamp.
+- 🔭  I Graduated from Practicum by Yandex as a Full Stack Web Development MERN online Bootcamp.
 - 🌱  I’m currently learning to get certified as Google Cloud Architect.
 - 👯  I’m volunteering to help new developers in slack starting their learning journey; Practicum by Yandex, Albany Can Code and Careers in Code.
 - 🥅  2021 Goals: reading books everyday other than Software Engineering books.
