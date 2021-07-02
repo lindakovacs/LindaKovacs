@@ -7,7 +7,7 @@ I Graduated from Practicum by Yandex as a Full Stack Web Developer MERN online B
 
 - 💙  I'm a Software Engineer @ Accenture.
 - 🔭  I Graduated from Practicum by Yandex as a Full Stack Web Developer MERN online Bootcamp.
-- 🌱  I’m currently learning to get certified as Google Cloud Architect.
+- 🌱  I'm Google Cloud Digital Leader Certified and I’m currently learning to get Google Cloud Associate Engineer Certified.
 - 👯  I’m volunteering to help new developers in slack starting their learning journey; Practicum by Yandex, Albany Can Code and Careers in Code.
 - 🥅  2021 Goals: reading books everyday other than Software Engineering books.
 - 🤔  I’m looking to advance my career. 
