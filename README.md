@@ -10,6 +10,8 @@ I Graduated from Practicum by Yandex as a Full Stack Web Developer MERN online B
 https://www.credential.net/33e56e12-91d4-4f21-bf5d-c33186579013
 - 🌱  I'm AWS Certified Cloud Practitioner: 
 https://www.credly.com/badges/e050bdeb-a95e-42f3-a61f-d1484af5f230
+- 🌱  I'm Google IT Professional Support Certified:
+https://www.credly.com/badges/188ebba7-cb71-46f9-afa1-2d10c85425ff
 - 🔭  I Graduated from Practicum by Yandex as a Full Stack Web Developer MERN online Bootcamp.
 - 👯  I’m volunteering to help new developers in slack starting their learning journey; Practicum by Yandex, Albany Can Code and Careers in Code.
 - 🥅  2021 Goals: reading books everyday other than Software Engineering books.
