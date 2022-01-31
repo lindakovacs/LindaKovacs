@@ -6,11 +6,16 @@ I am a Full Stack MERN Developer, Women Techmakers Ambassador, Google Developers
 I Graduated from Practicum by Yandex as a Full Stack Web Developer MERN online Bootcamp. During my leanring journey I helped other students with questions related to the course/sprints assignements and projects. The curricullum provides a wide range of projects based on the following Full Stack Development technologies: HTML5, CSS3, flexbox, grid layout, BEM, Media queries, transition, JavaScript/JSX, DOM, Debugging, Git, Git/Github, Figma, Form validation, OOP, Webpack, NPM, React, React components, React Hooks, Node.js, Express.js, Database, MongoDB, Mongoose, API, Microsoft Azure Cloud, AWS, Google Cloud backend deployment.
 
 - 💙  I'm a Software Engineer @ Accenture.
-- 🌱  I'm Google Cloud Associate Engineer Certified and Google Cloud Digital Leader Certified: https://googlecloudcertified.credential.net/profile/51eef884e385d6b27f1ea3eb19c957af8acb689e
+- 🌱  I'm Google Cloud Associate Engineer Certified and Google Cloud Digital Leader Certified:
+
+https://googlecloudcertified.credential.net/profile/51eef884e385d6b27f1ea3eb19c957af8acb689e
+
 https://www.credential.net/33e56e12-91d4-4f21-bf5d-c33186579013
 - 🌱  I'm AWS Certified Cloud Practitioner: 
+
 https://www.credly.com/badges/e050bdeb-a95e-42f3-a61f-d1484af5f230
 - 🌱  I'm Google IT Professional Support Certified:
+
 https://www.credly.com/badges/188ebba7-cb71-46f9-afa1-2d10c85425ff
 - 🔭  I Graduated from Practicum by Yandex as a Full Stack Web Developer MERN online Bootcamp.
 - 👯  I’m volunteering to help new developers in slack starting their learning journey; Practicum by Yandex, Albany Can Code and Careers in Code.
