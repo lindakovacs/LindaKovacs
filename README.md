@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Linda Kovacs and I'm a Software Engineer @ Accenture.</h1>
 <h3 align="center">Portofolio: <a href="https://linda-kovacs.com/portfolio/" target="_blank">https://linda-kovacs.com/portfolio/</a></h3>
+<h3 align="center">Skills badges: <a href="https://www.credly.com/users/linda-kovacs/badges" target="_blank">https://www.credly.com/users/linda-kovacs/badges</a></h3>
+<h3 align="center">Skills wallet: <a href="https://www.credential.net/profile/linda-kovacs/wallet" target="_blank">https://www.credential.net/profile/linda-kovacs/wallet</a></h3>
 
 I am a Full Stack MERN Developer, Women Techmakers Ambassador, Google Developers Group Lead - Capital Region, Journalist/Reporter Radio, TV, Magazine. I speak English, Italian, Romanian in daily basis.
 
