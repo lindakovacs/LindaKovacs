@@ -4,6 +4,7 @@
 <h3 align="center">Skills wallet: <a href="https://www.credential.net/profile/linda-kovacs/wallet" target="_blank">https://www.credential.net/profile/linda-kovacs/wallet</a></h3>
 
 I'm pursuing a Bachelor's Degree with a Major in Computer Science and a Minor in Journalism at the University at Albany (UAlbany) - SUNY (State University of New York).
+
 I am a Full Stack MERN Developer, Women Techmakers Ambassador, Google Developers Group Lead - Capital Region, Journalist/Reporter Radio, TV, Magazine. I speak English, Italian, Romanian in daily basis.
 
 I Graduated from TripleTen as a Full Stack Web Developer MERN online Bootcamp. During my leanring journey I helped other students with questions related to the course/sprints assignements and projects. The curricullum provides a wide range of projects based on the following Full Stack Development technologies: HTML5, CSS3, flexbox, grid layout, BEM, Media queries, transition, JavaScript/JSX, DOM, Debugging, Git, Git/Github, Figma, Form validation, OOP, Webpack, NPM, React, React components, React Hooks, Node.js, Express.js, Database, MongoDB, Mongoose, API, Microsoft Azure Cloud, AWS, Google Cloud backend deployment.
