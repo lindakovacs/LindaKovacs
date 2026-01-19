@@ -9,7 +9,7 @@ I am a Full Stack MERN Developer, Women Techmakers Ambassador, Google Developers
 
 I Graduated from TripleTen as a Full Stack Web Developer MERN online Bootcamp. During my leanring journey I helped other students with questions related to the course/sprints assignements and projects. The curricullum provides a wide range of projects based on the following Full Stack Development technologies: HTML5, CSS3, flexbox, grid layout, BEM, Media queries, transition, JavaScript/JSX, DOM, Debugging, Git, Git/Github, Figma, Form validation, OOP, Webpack, NPM, React, React components, React Hooks, Node.js, Express.js, Database, MongoDB, Mongoose, API, Microsoft Azure Cloud, AWS, Google Cloud backend deployment.
 
-- 💙  I'm a Software Engineer @ Accenture.
+- 💙  I'm a Sr Software Engineer @ Accenture.
 - 🌱  I'm Google, AWS, Azure, and Oracle Cloud Certified. <a href="https://www.credly.com/users/linda-kovacs/badges" target="_blank">Skills badges</a>
 - 🔭  I Graduated from TripleTen as a Full Stack Web Developer MERN online Bootcamp. I’m volunteering to help new developers in Slack starting their learning journey; TripleTen, Albany Can Code, and Careers in Code.
 - 👯  I'm a Google Developer Group Lead for Capital Reagion and Google Women Techmkers Ambassador. [GDG Capital Region](https://gdg.community.dev/gdg-capital-region/)
