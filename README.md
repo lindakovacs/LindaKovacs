@@ -3,7 +3,7 @@
 <h3 align="center">Skills badges: <a href="https://www.credly.com/users/linda-kovacs/badges" target="_blank">https://www.credly.com/users/linda-kovacs/badges</a></h3>
 <h3 align="center">Skills wallet: <a href="https://www.credential.net/profile/linda-kovacs/wallet" target="_blank">https://www.credential.net/profile/linda-kovacs/wallet</a></h3>
 
-I'm pursuing a Bachelor's Degree with a Major in Computer Science and a Minor in Journalism at the University at Albany (UAlbany) - SUNY (State University of New York).
+I'm pursuing a Bachelor's Degree with a Major in Computer Science AI/ML and a Minor in Journalism at the University at Albany (UAlbany) - SUNY (State University of New York).
 
 I am a Full Stack MERN Developer, Women Techmakers Ambassador, Google Developers Group Lead - Capital Region, Journalist/Reporter Radio, TV, Magazine. I speak English, Italian, Romanian in daily basis.
 
